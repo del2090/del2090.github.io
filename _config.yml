@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hahndeul Kim / Page"
+title                    : "Hahndeul Kim"
 title_separator          : "-"
 name                     : &name "Hahndeul Kim"
 description              : &description "Description"

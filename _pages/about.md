@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hahndeul Kim"
+title: "Main"
 author_profile: true
 redirect_from: 
   - /about/
