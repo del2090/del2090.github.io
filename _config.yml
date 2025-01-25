@@ -22,9 +22,9 @@ repository               : "del2090/del2090.github.io"
 author:
   # Biographic information
   avatar           : "IMG_1792.jpeg"
-  name             : "Hahndeul Kim"
+  name             : #"Hahndeul Kim"
   pronouns         : # example: "she/her"  
-  bio              : "I am an undergraduate student in Computer Science and Biological Sciences at Seoul National University."
+  bio              : #"I am an undergraduate student in Computer Science and Biological Sciences at Seoul National University."
   location         : "Seoul, Republic of Korea"
   employer         : "Seoul National University"
   uri              : # URL
