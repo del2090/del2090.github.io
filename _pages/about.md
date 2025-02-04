@@ -9,7 +9,7 @@ redirect_from:
 
 Hahndeul Kim
 ======
-I am an undergraduate student in Computer Science and Biological Sciences at Seoul National University (SNU). My current position is a research intern in Jeong lab of population genomics at SNU.
+I am an undergraduate student in Computer Science and Biological Sciences at Seoul National University (SNU). I currently hold a position as a research intern in Jeong lab of population genomics at SNU.
 
 Research Interests
 ======
