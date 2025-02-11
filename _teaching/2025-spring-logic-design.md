@@ -9,3 +9,11 @@ location: "Seoul, Republic of Korea"
 ---
 
 I serve as an undergraduate teaching assistant for the 2025 spring logic design course at Seoul National University. 
+
+Professor
+======
+Chang-gun Lee
+
+Course
+======
+Logic Design (M1522.000700)
