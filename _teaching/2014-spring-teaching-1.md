@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Logic Design"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Teaching Assistant"
+permalink: /teaching/logic-design-2025-spring
+venue: "Seoul National University"
+date: 2025-03-02
+location: "Seoul, Republic of Korea"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+I serve as an undergraduate teaching assistant for the 2025 spring logic design course at Seoul National University. 
