@@ -2,7 +2,7 @@
 title: "Logic Design"
 collection: teaching
 type: "Teaching Assistant"
-permalink: /teaching/logic-design-2025-spring
+permalink: /teaching/2025-spring-logic-design
 venue: "Seoul National University"
 date: 2025-03-02
 location: "Seoul, Republic of Korea"
