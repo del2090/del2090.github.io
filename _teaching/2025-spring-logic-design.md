@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: /teaching/2025-spring-logic-design
 venue: "Seoul National University"
-date: 2025-02-01
+date: 2025-03-04
 location: "Seoul, Republic of Korea"
 ---
 
