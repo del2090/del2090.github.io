@@ -7,7 +7,8 @@ tags:
   - RNA
 ---
 
-Review on the following paper from Nature Plants.
+Review on a paper about RNA thermoswitch from Nature Plants.
+
 # [**An RNA thermoswitch regulates daytime growth in _Arabidopsis_**](https://www.nature.com/articles/s41477-020-0633-3)
 
 ## Summary
