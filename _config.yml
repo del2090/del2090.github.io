@@ -295,12 +295,6 @@ permalink: /:categories/:title/
 # paginate_path: /page:num/
 timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-# Languages
-languages: ["ko", "en"]
-default_lang: "en"
-exclude_from_localization: ["javascript","images","css"]
-parallel_localization: true
-
 # Plugins
 plugins:
   - jekyll-feed
@@ -308,7 +302,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
-  - jekyll-polyglot
   - jemoji
 
 # Mimic GitHub Pages with --safe
