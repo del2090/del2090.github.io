@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "fr"
+locale                   : "en-US"
 title                    : "Hahndeul Kim"
 title_separator          : "-"
 name                     : &name "Hahndeul Kim"
