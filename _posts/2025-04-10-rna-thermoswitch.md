@@ -46,7 +46,7 @@ Cycling warm temperature: 8h warm (4~12) vs constantly low temperature
     - MG132 only moderately increases PIF7-MYC levels when CHX treatment is applied.
     - PIF7 does not appear to be under major regulation by the proteasome.
 
-### PIF7 is necessary for thermomorphogenesis in response to warm daytime temperature cycles
+### Figure 2: PIF7 is necessary for thermomorphogenesis in response to warm daytime temperature cycles
 
 - Fig. a~c) *pif7-1* mutant shows strongly reduced hypocotyl elongation (warm daytime growth response abolished)
     - *pif4-2* mutant shows similar phenotypes, but two mutations are not additive.
@@ -57,7 +57,7 @@ Cycling warm temperature: 8h warm (4~12) vs constantly low temperature
 
 ![image.png](/images/rna-thermoswitch/rna-thermoswitch-fig2.png)
 
-### PIF7 directly activates the warm temperature transcriptome in response to daytime thermal cycles
+### Figure 3: PIF7 directly activates the warm temperature transcriptome in response to daytime thermal cycles
 
 - Fig. a) Clustering analysis reveals a set of *PIF7*-dependent genes that are also strongly induced in response to warm photocycles. Cluster 7 is particularly enriched for genes associated with auxin. The induction of this cluster by temperature is *PIF7*-dependent.
 - Fig. c) 324 temperature-induced transcripts require *PIF7.*
@@ -76,7 +76,7 @@ Cycling warm temperature: 8h warm (4~12) vs constantly low temperature
 - PIF4, PIF7 ChIP-seq peaks overlap; PIF4-PIF7 and PIF7-PIF7 interactions are both observed
     - Two proteins can bind as heterodimers
 
-### Thermosensitive hairpin structures in *HSFA2* and *PIF7* 5’-UTRs enhance translation in response to warm temperature
+### Figure 4: Thermosensitive hairpin structures in *HSFA2* and *PIF7* 5’-UTRs enhance translation in response to warm temperature
 
 - Fig. a~c) 5’-UTR sequences of a subset of translationally enhanced genes have a low minimum free energy (MFE), and are predicted to form a hairpin at upstream of their AUG.
 - Fig. d) DEGs with higher TE shows higher MFE of folding: AUG-proximal hairpin is not global.
