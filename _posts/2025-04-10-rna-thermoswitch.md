@@ -33,7 +33,7 @@ Cycling warm temperature: 8h warm (4~12) vs constantly low temperature
 - Fig. n) Quantification of PIF7-MYC transcript
     - Increase of protein level occurs independently of transcript abundance.
 
-![image.png](images/rna-thermoswitch/rna-thermoswitch-fig1.png)
+![image.png](/images/rna-thermoswitch/rna-thermoswitch-fig1.png)
 
 - Seedlings grown at constant 17$\degree$C shifted to 27$\degree$C
     - Slight increase in protein level, sharp drop in transcript level.
@@ -55,7 +55,7 @@ Cycling warm temperature: 8h warm (4~12) vs constantly low temperature
 - Fig. d~f) PIF7 is also required for petiole elongation & reduction in stomatal index
     - *PIF7::PIF7-MYC* transgene complements the phenotypes, confirming that the mutant phenotypes are due to lack of PIF7.
 
-![image.png]((images/rna-thermoswitch/rna-thermoswitch-fig2.png)
+![image.png](/images/rna-thermoswitch/rna-thermoswitch-fig2.png)
 
 ### PIF7 directly activates the warm temperature transcriptome in response to daytime thermal cycles
 
@@ -67,7 +67,7 @@ Cycling warm temperature: 8h warm (4~12) vs constantly low temperature
 - Fig. f) PIF7 binding to *ATHB2* promoter is increased in 27$\degree$C.
 - Fig. g) PIF7 binding is increased in 27$\degree$C: the enhancement of PIF7 translation at higher temperature is necessary and sufficient to directly result in a marked up-regulation of genes controlling thermomorphogenesis.
 
-![image.png]((images/rna-thermoswitch/rna-thermoswitch-fig3.png)
+![image.png](/images/rna-thermoswitch/rna-thermoswitch-fig3.png)
 
 - Auxin-related genes in cluster 7 include *YUC8* and *YUC9*, which control rate-limiting steps in the biosynthesis of auxin.
 - *IAA19* and *IAA29* are auxin-inducible genes that are also included in cluster 7.
@@ -90,7 +90,7 @@ Cycling warm temperature: 8h warm (4~12) vs constantly low temperature
     - Variation in PIF7-MYC abundance in independent lines make it difficult to infer the effect of the different hairpin sequences via direct comparison.
 - Fig. m~o) Fold change in *YUC8*, *IAA19*, and *IAA29* transcript levels.
 
-![image.png]((images/rna-thermoswitch/rna-thermoswitch-fig4.png)
+![image.png](/images/rna-thermoswitch/rna-thermoswitch-fig4.png)
 
 - Presence of an AUG-proximal hairpin appears here specifically: a reduction in MFE of folding in the 5’-UTRs of transcripts with enhanced TE at high temperature is not global.
 - *HSFA2* is a well-known regulator of heat acclimation, and *WRKY22* is a gene linked to responses in temperature fluctuation.
