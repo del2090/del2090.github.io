@@ -14,4 +14,4 @@ I am a third-year undergraduate student in Computer Science and Biological Scien
 Topics
 ======
 I am generally interested in applications of statistical modeling and machine learning in various biological disciplines.<br>
-Specifically, I currently focus on statistical modeling of human ancestries.
+Specifically, I Currently focus on statistically modeling ancestries of ancient individuals.
