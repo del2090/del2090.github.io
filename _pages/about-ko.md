@@ -1,13 +1,14 @@
 ---
-permalink: /ko/
+lang: ko
+permalink: /
 title: ""
 author_profile: true
 redirect_from: 
-  - /about/ko
-  - /about.html/ko
+  - /about/ko/
+  - /about.html/ko/
 ---
 
-Hahndeul Kim
+김한들
 ======
 I am a third-year undergraduate student in Computer Science and Biological Sciences at Seoul National University (SNU). I currently work as a research intern in Jeong Lab of Population Genomics at SNU.
 
