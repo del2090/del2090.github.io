@@ -95,5 +95,5 @@ Cycling warm temperature: 8h warm (4~12) vs constantly low temperature
 - Presence of an AUG-proximal hairpin appears here specifically: a reduction in MFE of folding in the 5’-UTRs of transcripts with enhanced TE at high temperature is not global.
 - *HSFA2* is a well-known regulator of heat acclimation, and *WRKY22* is a gene linked to responses in temperature fluctuation.
 - Responsiveness is restored when compensatory mutations are added to hairpin-disrupted RNA: it is structure rather than sequence identity that enhances temperature-dependent translation.
-- PIF7 protein abundance affects thermomorphogenesis and represents a limiting factor for elongation growth at 27$\degree$C, but not at 17$\degree$C, where other pathways may restrict PIF7 (Fig. k, l).
+- PIF7 protein abundance affects thermomorphogenesis and represents a limiting factor for elongation growth at 27$\degree$C, but not at 17 $\degree$ C, where other pathways may restrict PIF7 (Fig. k, l).
 - YUC8 and IAA19 induction was highest in lines with WT and reconstituted hairpin sequences: hairpin structure is relevant for the level of target gene induction.
