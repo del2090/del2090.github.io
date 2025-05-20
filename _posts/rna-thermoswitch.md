@@ -1,7 +1,7 @@
 ---
 title: 'RNA Thermoswitch'
 date: 2025-04-10
-permalink: /posts/rna-thermoswitch
+permalink: /posts/2025/04/rna-thermoswitch
 tags:
   - Molecular Biology
   - RNA
