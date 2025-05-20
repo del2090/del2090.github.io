@@ -4,8 +4,8 @@ permalink: /
 title: ""
 author_profile: true
 redirect_from: 
-  - /about/ko/
-  - /about.html/ko/
+  - /about
+  - /about.html
 ---
 
 김한들
