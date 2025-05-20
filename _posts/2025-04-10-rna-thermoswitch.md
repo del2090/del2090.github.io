@@ -7,7 +7,7 @@ tags:
   - RNA
 ---
 
-# [**An RNA thermoswitch regulates daytime growth in _Arabidopsis_**](https://www.nature.com/articles/s41477-020-0633-3)
+## [**An RNA thermoswitch regulates daytime growth in _Arabidopsis_**](https://www.nature.com/articles/s41477-020-0633-3)
 
 ## Summary
 - Translation of transcripts encoding PIF7 increases in response to warmer temperature.
