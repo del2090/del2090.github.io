@@ -26,7 +26,7 @@ Cycling warm temperature: 8h warm (4~12) vs constantly low temperature
 
 - Fig. i) Ribosome profiling → translation efficiency (TE) computation
 - Fig. j) GO terms (transcription factors, stress-related genes)
-- Fig. k) *PIF7* transcript level is not significantly changed in response to 27$\degree$C.
+- Fig. k) *PIF7* transcript level is not significantly changed in response to 27°C.
 - Fig. l) Representative western blot
 - Fig. m) Quantification of PIF7-MYC fusion protein
     - Change in translational efficiency results in robust changes at the protein level.
@@ -35,12 +35,12 @@ Cycling warm temperature: 8h warm (4~12) vs constantly low temperature
 
 ![image.png](/images/rna-thermoswitch/rna-thermoswitch-fig1.png)
 
-- Seedlings grown at constant 17$\degree$C shifted to 27$\degree$C
+- Seedlings grown at constant 17°C shifted to 27°C
     - Slight increase in protein level, sharp drop in transcript level.
     - Drop in transcript level probably counteracts enhanced translation.
 - CHX (translation inhibitor) treatment strongly reduces PIF7-MYC levels.
     - Translational regulation indeed plays an important role in controlling PIF7 levels.
-    - Effect is similar at both 17$\degree$C and 27$\degree$C → stability of PIF7 accumulated before CHX is independent of temperature.
+    - Effect is similar at both 17°C and 27°C → stability of PIF7 accumulated before CHX is independent of temperature.
 - MG132 (proteasome inhibitor) treatment had no major effects.
     - Several other PIF TFs are highly regulated by proteasomal degradation in response to light or temperature signal.
     - MG132 only moderately increases PIF7-MYC levels when CHX treatment is applied.
@@ -64,8 +64,8 @@ Cycling warm temperature: 8h warm (4~12) vs constantly low temperature
 - Fig. d) 82 genes are directly bound by PIF7, and are perturbed in *pif7-1* mutant.
     - Targets directly bound and transcriptionally perturbed in *pif7-1* are enriched for genes associated with cell elongation growth.
 - Fig. e) Bound sequences are enriched with G-box motif (CACGTG)
-- Fig. f) PIF7 binding to *ATHB2* promoter is increased in 27$\degree$C.
-- Fig. g) PIF7 binding is increased in 27$\degree$C: the enhancement of PIF7 translation at higher temperature is necessary and sufficient to directly result in a marked up-regulation of genes controlling thermomorphogenesis.
+- Fig. f) PIF7 binding to *ATHB2* promoter is increased in 27°C.
+- Fig. g) PIF7 binding is increased in 27°C: the enhancement of PIF7 translation at higher temperature is necessary and sufficient to directly result in a marked up-regulation of genes controlling thermomorphogenesis.
 
 ![image.png](/images/rna-thermoswitch/rna-thermoswitch-fig3.png)
 
@@ -82,11 +82,11 @@ Cycling warm temperature: 8h warm (4~12) vs constantly low temperature
 - Fig. d) DEGs with higher TE shows higher MFE of folding: AUG-proximal hairpin is not global.
 - Fig. e) *HSFA2*::firefly luciferase (FLUC) fusion RNA translation.
 - Fig. f) *PIF7*::FLUC fusion RNA translation.
-- Fig. g) Lower CD-signal intensity measured at 210nm at 27$\degree$C: partially unfolded hairpin.
+- Fig. g) Lower CD-signal intensity measured at 210nm at 27°C: partially unfolded hairpin.
 - Fig. h, i) FRET analysis to quantify *PIF7* 5’-UTR hairpin flexibility.
     - Fig. h shows that the conformational changes are reversible.
-- Fig. j) Biggest fold change in PIF7-MYC protein levels between 17$\degree$C and 27$\degree$C was observed in lines with WT and reconstituted hairpin sequence.
-- Fig. k, l) As opposed to 17$\degree$C, clear correlation between PIF7-MYC levels and hypocotyl length is observed in 27$\degree$C.
+- Fig. j) Biggest fold change in PIF7-MYC protein levels between 17°C and 27°C was observed in lines with WT and reconstituted hairpin sequence.
+- Fig. k, l) As opposed to 17°C, clear correlation between PIF7-MYC levels and hypocotyl length is observed in 27°C.
     - Variation in PIF7-MYC abundance in independent lines make it difficult to infer the effect of the different hairpin sequences via direct comparison.
 - Fig. m~o) Fold change in *YUC8*, *IAA19*, and *IAA29* transcript levels.
 
@@ -95,5 +95,5 @@ Cycling warm temperature: 8h warm (4~12) vs constantly low temperature
 - Presence of an AUG-proximal hairpin appears here specifically: a reduction in MFE of folding in the 5’-UTRs of transcripts with enhanced TE at high temperature is not global.
 - *HSFA2* is a well-known regulator of heat acclimation, and *WRKY22* is a gene linked to responses in temperature fluctuation.
 - Responsiveness is restored when compensatory mutations are added to hairpin-disrupted RNA: it is structure rather than sequence identity that enhances temperature-dependent translation.
-- PIF7 protein abundance affects thermomorphogenesis and represents a limiting factor for elongation growth at 27$\degree$C, but not at 17 $\degree$ C, where other pathways may restrict PIF7 (Fig. k, l).
+- PIF7 protein abundance affects thermomorphogenesis and represents a limiting factor for elongation growth at 27°C, but not at 17°C, where other pathways may restrict PIF7 (Fig. k, l).
 - YUC8 and IAA19 induction was highest in lines with WT and reconstituted hairpin sequences: hairpin structure is relevant for the level of target gene induction.
