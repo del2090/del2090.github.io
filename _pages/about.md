@@ -9,9 +9,9 @@ redirect_from:
 
 Hahndeul Kim
 ======
-I am a third-year undergraduate student in Computer Science and Biological Sciences at Seoul National University (SNU). I currently work as a research intern in Jeong Lab of Population Genomics at SNU.
+I am a third-year undergraduate student in Computer Science and Biological Sciences at Seoul National University (SNU).
 
 Topics
 ======
-I am generally interested in applications of statistical modeling and machine learning in various biological disciplines.<br>
-Specifically, I currently focus on statistical modeling of human ancestry and admixture events.
+I am interested in applications of statistical modeling and machine learning in various biological disciplines.<br>
+Currently, I attempt to dive into generative models for mRNA vaccine and protein design.
