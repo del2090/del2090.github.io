@@ -1,0 +1,114 @@
+%-------------------------------------
+% Resum in LaTeX (XeLaTeX)
+% Author:  HF Yuan
+% Project: https://github.com/xyz-yuanhf/yuan-resume
+% Base on: https://github.com/mattyHerzig/mattys_resume
+%          http://www.jianxu.net/en/
+% License: MIT
+%------------------------------------
+
+\documentclass[a4paper, 10pt]{article}
+\usepackage{myresume}  % Style package
+
+% --------------------  START  --------------------
+\begin{document}
+
+% -------------------- HEADING --------------------
+\begin{flushright}
+  \setstretch{0.6}
+  \item {\Calluna del2090.github.io}
+  \item {\Calluna del2090@snu.ac.kr}  % E-mail address
+  \item {\Calluna Seoul, Republic of Korea}
+\end{flushright}\vspace{-45pt}
+
+\begin{flushleft}  % Rplace here with your name (and identity if required)
+  {\Calluna \fontsize{30pt}{30pt}\selectfont \textsc{Hahndeul Kim}}
+  \noindent\rule{\textwidth}{0.4pt}
+\end{flushleft}
+
+% -------------------- EDUCATION --------------------
+\sectionBlock{
+\section{Education}
+}{
+\eduHeading
+  {College of Engineering, Seoul National University (SNU)}{Seoul, Republic of Korea}
+  {B. Eng. in Computer Science and Engineering}{2023.3 - 2027.2 (expected)}
+  {B. Sc. in Biological Sciences}{Double Major}
+\itemListStart
+  \myItem{Cumulative GPA: 3.96/4.3 (Percentage Equivalent: 96.6)}
+\itemListEnd
+
+}
+
+% -------------------- PROJECTS --------------------
+\sectionBlock{
+\section{Relevant Coursework}
+}{
+\internHeading
+  {Basics of Deep Learning}{Spring 2025 (A-)}{}
+
+\internHeading
+  {Molecular Biology}{Spring 2025 (A+)}{}
+
+\internHeading
+  {Artificial Intelligence}{Autumn 2024 (A)}{}
+
+\internHeading
+  {Algorithms}{Spring 2024 (A+)}{}
+
+\internHeading
+  {Data Structures}{Spring 2024 (A+)}{}
+}
+
+% -------------------- INTERNSHIPS --------------------
+\sectionBlock{
+\section{Research Experiences}
+}{
+\internHeading
+  {Laboratory of Quantitative Molecular Biology}{Research Intern}{2025.6 -}
+\itemListStart
+  \myItem{Advisor: Prof. Hyeshik Chang}
+  \myItem{Algorithmic analysis of post-transcriptional modifications.}
+\itemListEnd
+\internHeading
+  {Jeong Lab of Population Genomics}{Research Intern}{2025.1 - 2025.6}
+\itemListStart
+  \myItem{Advisor: Prof. Choongwon Jeong}
+  \myItem{Statistical inference and analysis of south Caucasian ancestries.}
+\itemListEnd
+}
+
+% -------------------- AWARDS & HONORS --------------------
+\sectionBlock{
+\section{Awards\\and\\Honors}
+}{
+\projHeading
+{\textbf{National Science \& Technology Scholarship}}
+{Recurring full tuition scholarship from Korea Student Aid Foundation} {2023.3 -}
+}
+
+% -------------------- SKILLS --------------------
+\sectionBlock{
+\section{Skills}
+}{
+\skillListStart
+\justifying
+\item \emph{Languages}: Korean (Native), English (Fluent)
+
+\item \emph{Programming}: Python, C/C++, Java, Rust
+\skillListEnd
+}
+
+% -------------------- OTHERS --------------------
+\sectionBlock{
+\section{Other Experiences}
+}{
+\internHeading
+  {Teaching Assistant}{Logic Design (2025 Spring)}{2025.3 - 2025.6}
+
+\internHeading
+  {Executive}{SNU CSE Student Council}{2023.12 - 2024.11}
+}
+
+\end{document}
+
